@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SabGalaxy/testapp.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/SabGalaxy/testapp.git/static/js/main.f3631cf5.chunk.js",
+    "main.js.map": "/SabGalaxy/testapp.git/static/js/main.f3631cf5.chunk.js.map",
+    "runtime-main.js": "/SabGalaxy/testapp.git/static/js/runtime-main.a2309371.js",
+    "runtime-main.js.map": "/SabGalaxy/testapp.git/static/js/runtime-main.a2309371.js.map",
+    "static/js/2.7bc898ea.chunk.js": "/SabGalaxy/testapp.git/static/js/2.7bc898ea.chunk.js",
+    "static/js/2.7bc898ea.chunk.js.map": "/SabGalaxy/testapp.git/static/js/2.7bc898ea.chunk.js.map",
+    "index.html": "/SabGalaxy/testapp.git/index.html",
+    "precache-manifest.4dcd86fb9e4b85cc31fde96d54f8926d.js": "/SabGalaxy/testapp.git/precache-manifest.4dcd86fb9e4b85cc31fde96d54f8926d.js",
+    "service-worker.js": "/SabGalaxy/testapp.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/SabGalaxy/testapp.git/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/SabGalaxy/testapp.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2309371.js",
+    "static/js/2.7bc898ea.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f3631cf5.chunk.js"
+  ]
+}
