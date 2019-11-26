@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "508ce5e85a7feb0dd8c0b0a6edc67477",
+    "revision": "50f8931e201ed84130cd27e21c1fb33a",
     "url": "/SabGalaxy/testapp.git/index.html"
   },
   {

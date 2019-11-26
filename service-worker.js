@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SabGalaxy/testapp.git/precache-manifest.4dcd86fb9e4b85cc31fde96d54f8926d.js"
+  "/SabGalaxy/testapp.git/precache-manifest.474d2450f5e63f6171c9a8e0ce55435d.js"
 );
 
 self.addEventListener('message', (event) => {
